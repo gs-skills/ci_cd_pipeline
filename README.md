@@ -6,3 +6,6 @@ CI/CD pipeline
 - Create server and install nginx.
 - Create a virtual host in nginx.
 - Link IP server to domain serveries. 
+
+## 
+Cambios para que vea el Victor.
